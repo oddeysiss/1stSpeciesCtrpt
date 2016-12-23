@@ -1,0 +1,13 @@
+1	2	3	4	5	6	7
+A	B	C#	D	E	F#	G#
+A#	C	D	D#	F	G	A
+B	C#	D#	E	F#	G#	A#
+C	D	E	F	G	A	B
+C#	D#	F	F#	G#	A#	C
+D	E	F#	G	A	B	C#
+D#	F	G	G#	A#	C	D
+E	F#	G#	A	B	C#	D#
+F	G	A	A#	C	D	E
+F#	G#	A#	B	C#	D#	F
+G	A	B	C	D	E	F#
+G#	A#	C	C#	D#	F	G

@@ -1,0 +1,3 @@
+﻿  FirstSpeciesCtrpt.cpp
+c:\users\mitchell\documents\visual studio 2015\projects\firstspeciesctrpt\firstspeciesctrpt\firstspeciesctrpt.cpp(805): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FirstSpeciesCtrpt.vcxproj -> C:\Users\Mitchell\documents\visual studio 2015\Projects\FirstSpeciesCtrpt\Debug\FirstSpeciesCtrpt.exe
